@@ -1,5 +1,5 @@
 NAME := weatherline
-VERSION := 1.0.0
+VERSION := 1.0.1
 REPO := github.com/yyotti/weatherline
 
 SRCS := $(shell find . -type f -name '*.go' -not -name '*_test.go')
