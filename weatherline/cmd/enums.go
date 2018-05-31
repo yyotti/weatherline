@@ -12,9 +12,9 @@ const (
 
 	iconClearDay          icon = 0x2600
 	iconClearNight        icon = 0x2600
-	iconRain              icon = 0x2603
+	iconRain              icon = 0x2614
 	iconSnow              icon = 0x2744
-	iconSleet             icon = 0x2603
+	iconSleet             icon = 0x2614
 	iconWind              icon = 0x1f343
 	iconFog               icon = 0x1f32b
 	iconCloudy            icon = 0x2601
